@@ -1,0 +1,24 @@
+{
+  "name": "helloworld-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirupakaran/helloworld-node-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirupakaran/helloworld-node-server/issues"
+  },
+  "homepage": "https://github.com/Kirupakaran/helloworld-node-server#readme",
+  "dependencies": {
+    "fastify": "^4.2.1"
+  }
+}
